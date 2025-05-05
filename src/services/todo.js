@@ -8,7 +8,7 @@ export function getAll() {
     return [
         {
             id: 1,
-            text: 'New Video',
+            text: 'Learn Python',
             completed: false
         },
         {
