@@ -18,7 +18,7 @@ export function getAll() {
         },
         {
             id: 3,
-            text: 'Build a React App',
+            text: 'Learn DevOps',
             completed: false
         }
     ]
